@@ -1,60 +1,27 @@
-# Title
+# Rustic Crusty Bread (Poolish)
 
-## Section 1
+## Poolish
 ### Ingredients
-- 10g of this
-- 20g of that
+- 150ml water
+- 150g bread flour
+- 1/8 tsp instant yeast
 ### Steps
-1. do this
-2. do that
+1. Mix together, cover with glad wrap and leave for 4-24 hours (double in volume and lots of bubbles)
 
-## Section 2
+## Dough
 ### Ingredients
-- 30g of this
-- 40g of that
+- 250 ml water
+- 2g instant yeast
+- 350g bread flour
+- 50g wholegrain wheat flour
+- 10g salt
 ### Steps
-1. do this
-2. do that
-
-
-
-
-Below are instructions and samples for formatting
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ah-jia/recipe-template/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ah-jia/recipe-template/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Mix in machine (either food processor or mixer using the dough hook) all of the above plus the prepared poolish till till dough is combined but will be kind of slack (kind of "loose" dough).
+2. Transfer into a big bowl and lad wrap, leave it for 30 mins.
+3. Wet hands, scoop dough, pull and fold dough for like 10 times.
+4. Next, do a "slap and fold" using your hand scoop dough from underneath turn a 90 deg and kind of tuck into a ball (do it like 6 or 7 times) just like shaping dough on countertop into a ball.
+5. Glad wrap, leave it for anothher 30 mins.
+6. IMPORTANT TO NOTE: TO BE GENTLE WITH HANDLING THE DOUGH TO RETAIN THE AIR IN IT (FOR A LOOSE AND CHEWY TEXTURE BREAD)
+7. shape dough (grab a side of dough, pull up & fold back, worl all round, then grab opposing side do a criss cross tuck 3 or 4 times routate to a tight ball) and place it on parchment paper that is generouly sprinkled with flour, proof it for a final 40 min. Preheat oven to 230 deg C, spray water on dough and also the oven just before putting in to bake for 1 hour. (or steam shot 3 min if oven has this feature).
+8. Cut slit on top.
+9. For a nice dome shape can proof in a deep bowl, then transfer to well foured tray lined with paper to bake.
