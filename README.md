@@ -5,6 +5,7 @@
 - 150ml water
 - 150g bread flour
 - 1/8 tsp instant yeast
+
 ### Steps
 1. Mix together, cover with glad wrap and leave for 4-24 hours (double in volume and lots of bubbles)
 
@@ -15,6 +16,7 @@
 - 350g bread flour
 - 50g wholegrain wheat flour
 - 10g salt
+
 ### Steps
 1. Mix in machine (either food processor or mixer using the dough hook) all of the above plus the prepared poolish till till dough is combined but will be kind of slack (kind of "loose" dough).
 2. Transfer into a big bowl and lad wrap, leave it for 30 mins.
